@@ -1,0 +1,21 @@
+5 rubric
+
+framework/language
+10 react
+0 backend
+10 mongodb
+
+functionality
+10 register login logout
+15 user can access different classes
+10 submission portal
+10 grading portal
+5 get student grade averages (mean median etc) for an assignment
+10 grade calculator
+
+best practices
+3 code well formatted
+2 pass validator
+
+creative portion
+10 (calendar, chat, textbook purchasing, etc)
